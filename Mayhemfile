@@ -1,0 +1,5 @@
+project: jacob-clemente/json-parser
+target: json-parser
+
+cmds:
+  - cmd: /json-parser @@
