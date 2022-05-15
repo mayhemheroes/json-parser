@@ -1,4 +1,4 @@
-project: jacob-clemente/json-parser
+project: json-parser
 target: json-parser
 
 cmds:
